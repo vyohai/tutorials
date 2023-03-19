@@ -2,6 +2,7 @@
 **/scipy_tutorial_venv
 **/pytorch_tutorial_venv
 **/wandb_tutorial_venv
+**/pack_train_app_tutorial_venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
