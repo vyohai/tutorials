@@ -1,7 +1,7 @@
 # Yochai added
-**/scipyTutorial
-**/pytorchTutorial
-**/wandbTutorial
+**/scipy_tutorial_venv
+**/pytorch_tutorial_venv
+**/wandb_tutorial_venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
