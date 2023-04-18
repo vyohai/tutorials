@@ -2,7 +2,7 @@
 
  This is a set of tutorials with code examples for future Yochai and friends
  
- ## TurorialS finished
+ ## Turorials finished
  1. **scipy/The discrete-time fourier transform.ipynb**-basic theory and use cases of regular fourier analisys with scipy library
  2. **scipy/The short-time fourier transform.ipynb**-basic theory and use cases of time-based fourier analisys with scipy library
  3. **scipy/Quaternions.ipynb**-basic theory and use cases Quaternion orientation representation with scipy library
