@@ -4,8 +4,13 @@
  
  ## Turorials finished
  1. **scipy/The discrete-time fourier transform.ipynb**-basic theory and use cases of regular fourier analisys with scipy library
+https://nbviewer.org/github/vyohai/tutorials/blob/main/scipy/The%20discrete-time%20fourier%20transform.ipynb
+
  2. **scipy/The short-time fourier transform.ipynb**-basic theory and use cases of time-based fourier analisys with scipy library
+ https://nbviewer.org/github/vyohai/tutorials/blob/main/scipy/The%20short%20time%20fourier%20transform.ipynb
+ 
  3. **scipy/Quaternions.ipynb**-basic theory and use cases Quaternion orientation representation with scipy library
+  https://nbviewer.org/github/vyohai/tutorials/blob/main/scipy/Quaternions.ipynb
 
 ## Tutorials TBD
 1. **scipy/The z-transform.ipynb**-basic theory and use cases of z-transform with scipy library
