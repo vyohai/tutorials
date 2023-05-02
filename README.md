@@ -3,8 +3,8 @@
  This is a set of tutorials with code examples for future Yochai and friends
  
  ## Turorials finished
- 1. **scipy/The discrete-time fourier transform.ipynb**-basic theory and use cases of regular fourier analisys with scipy library
-https://app.reviewnb.com/vyohai/tutorials/blob/main/scipy/The%20discrete-time%20fourier%20transform.ipynb/
+ 1. **scipy/Basic Fourier analysis - DFT.ipynb**-basic theory and use cases of regular fourier analisys with scipy library
+https://app.reviewnb.com/vyohai/tutorials/blob/main/scipy%2FBasic%20Fourier%20analysis%20-%20DFT.ipynb
 
  2. **scipy/The short-time fourier transform.ipynb**-basic theory and use cases of time-based fourier analisys with scipy library
  https://app.reviewnb.com/vyohai/tutorials/blob/main/scipy/The%20short%20time%20fourier%20transform.ipynb/
